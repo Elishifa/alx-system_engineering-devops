@@ -2,4 +2,4 @@
 # This script displays the PID
 # along with the process name
 
-pgrep bash -1
+pgrep -l bash
